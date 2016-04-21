@@ -1,14 +1,14 @@
 layout_spectrum: 0.3701532387640327
-typography_spectrum: 0.8660899247042835
+typography_spectrum: 0.08828213345259428
 color:
-  brandStrength: 0.6841027319896966
-  lightness: 0.5124175900127739
-  saturation: 0.8574837108608335
-  rhythmicContrast: 0.5578368864953518
+  brandStrength: 0.7033235544804484
+  lightness: 0.944538003532216
+  saturation: 0.146952323615551
+  rhythmicContrast: 0.6266208235174417
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
 name: Foodie finds
